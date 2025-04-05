@@ -6,7 +6,7 @@ import Navbar from './components/Navbar'
 import { BrowserRouter, Route, Routes } from 'react-router'
 import UploadCrop from './pages/UploadCrop'
 import PredictPrice from './pages/PredictPrice'
-import Chat from './pages/chat'
+import Chat from './pages/Chat'
 
 function App() {
 
