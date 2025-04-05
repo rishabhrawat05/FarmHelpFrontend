@@ -61,7 +61,7 @@ const Home = () => {
   const fetchInsights = async (weatherData) => {
     setIsLoading(true);
     try {
-      const response = await fetch("http://localhost:5000/farming-insights", {
+      const response = await fetch("https://farmhelpbackend.onrender.com/farming-insights", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
