@@ -1,4 +1,8 @@
-# FarmHelp
+<h1 align="center">Farmhelp</h1>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e455aaad-06e2-44fd-89bd-d93653bf55aa" alt="farmHelp" width="400"/>
+</p>
 
 FarmHelp is a web-based platform designed to empower farmers with real-time, personalized, and localized farming support. Built using advanced technologies like Gemini AI, React.js, Python, and Flask, the platform delivers agricultural expertise right to the farmer’s fingertips — in their own language.
 
