@@ -1,7 +1,3 @@
-Based on the information you provided, here is a well-documented README for your project:
-
----
-
 # FarmHelp
 
 FarmHelp is a web-based platform designed to empower farmers with real-time, personalized, and localized farming support. Built using advanced technologies like Gemini AI, React.js, Python, and Flask, the platform delivers agricultural expertise right to the farmer’s fingertips — in their own language.
